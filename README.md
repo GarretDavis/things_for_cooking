@@ -2,4 +2,4 @@
 things you need to cook
 bole
 knife
-ingreadens
+ingerdents
